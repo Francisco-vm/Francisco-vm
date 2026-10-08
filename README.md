@@ -23,16 +23,13 @@ Linux servers and deploy services with Docker.
 
 ## 🛠️ Tech Stack
 
-**Languages** &nbsp;
-<img src="https://skillicons.dev/icons?i=php,python,js,bash" alt="Languages" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,python,docker,bash,git,mysql,postman,postgres,html,linux,css" height="40" alt="Tech stack"/>
+</p>
 
-**Databases** &nbsp;
-<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" height="40"/>
-
-**DevOps & Tools** &nbsp;
-<img src="https://skillicons.dev/icons?i=linux,docker,git,postman" alt="DevOps and tools" height="40"/>
-
-**Concepts:** `RESTful APIs` · `JWT / RBAC` · `MVC` · `MariaDB` · `Server Administration`
+<p align="center">
+  <code>RESTful APIs</code> · <code>JWT / RBAC</code> · <code>MVC</code> · <code>MariaDB</code> · <code>Server Administration</code>
+</p>
 
 ## 🚀 Featured Projects
 
