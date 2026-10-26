@@ -14,7 +14,7 @@ Back-end developer and sysadmin with 3+ years of experience building web applica
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=php,js,python,docker,bash,git,mysql,postman,postgres,html,linux,css" height="40" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=php,js,python,docker,bash,git,mysql,postman,postgres,html,linux,css,windows" height="40" alt="Tech stack"/>
 
 `RESTful APIs` · `JWT / RBAC` · `MVC` · `MariaDB` · `Server Administration`
 
